@@ -1,0 +1,16 @@
+{
+  "generatedAt": "2026-11-17T10:15:40.702Z",
+  "windowStart": "2026-10-19",
+  "windowEnd": "2026-11-17",
+  "records": 2068,
+  "sources": {
+    "usgs": 1914,
+    "gdacs": 154
+  },
+  "severity": {
+    "low": 1786,
+    "moderate": 277,
+    "high": 3,
+    "critical": 2
+  }
+}
